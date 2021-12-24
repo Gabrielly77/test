@@ -25,8 +25,8 @@ img {
   /* colors */
   --hue: 159;
   /* HSL color mode */
-  --base-color: #1e90ffff;
-  --base-color-second: #00ced1;
+  --base-color: #993399;
+  --base-color-second:  #993399;
   --base-color-alt: hsl(var(--hue) 57% 53%);
   --title-color: hsl(var(--hue) 41% 10%);
   --text-color: hsl(0 0% 46%);
